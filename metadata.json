@@ -1,0 +1,5 @@
+{
+  "name": "Teacher PA Portfolio",
+  "description": "A comprehensive performance agreement portfolio system for teachers, integrated with mock Google Sheets logic and Gemini AI for content assistance.",
+  "requestFramePermissions": []
+}
